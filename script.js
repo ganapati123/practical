@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 var g =10
+=======
+var a =100
+>>>>>>> feature-1
 var b =20
 var c =30
 var d =40
